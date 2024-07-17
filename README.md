@@ -33,6 +33,8 @@ Contact Section: Include your contact information, such as email address and pho
 number.
 
 Footer: Add a copyright notice and any additional links or information.
+<img width="1260" alt="PORFOLIO" src="https://github.com/user-attachments/assets/dad1b31f-1479-4f2b-bf81-3b3dfe0e367f">
+
 
 ## TASK3 CALCULATOR
 To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an
