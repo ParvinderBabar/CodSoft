@@ -42,4 +42,5 @@ CSS grid system for button alignments. Use event listeners, if-else statements, 
 loops to handle user input and perform calculations. This project requires some skill but can be
 
 done with basic knowledge of these technologies..
-<img width="987" alt="CALCULATOR" src="https://github.com/user-attachments/assets/1a98b526-9d4e-4b89-af80-580282f23423"><img width="987" alt="CALCULATOR" src="https://github.com/user-attachments/assets/1a98b526-9d4e-4b89-af80-580282f23423">
+<img width="987" alt="CALCULATOR" src="https://github.com/user-attachments/assets/1a98b526-9d4e-4b89-af80-580282f23423">
+
